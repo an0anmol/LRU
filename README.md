@@ -1,6 +1,7 @@
 # LRU
 n Least Recently Used (LRU) algorithm is a Greedy algorithm where the page to be replaced is least recently used.
 ![alt text](http://faculty.salina.k-state.edu/tim/ossg/_images/lru.png )
+Second example
 ![alt text](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/LRU-page-replacement.png)
 In operating systems that use paging for memory management, page replacement algorithm are needed to decide which page needed to be replaced when new page comes in. Whenever a new page is referred and not present in memory, page fault occurs and Operating System replaces one of the existing pages with newly needed page. Different page replacement algorithms suggest different ways to decide which page to replace. The target for all algorithms is to reduce number of page faults.
 
